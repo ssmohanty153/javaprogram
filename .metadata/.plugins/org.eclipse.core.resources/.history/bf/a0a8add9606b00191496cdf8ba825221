@@ -1,0 +1,24 @@
+package org.ssm.Number;
+
+import java.util.Scanner;
+
+public class StrongNumber 
+{
+public static void main(String[] args)
+{
+	Scanner sc=new Scanner(System.in);
+	System.out.println("enter the numbner");
+	int n=sc.nextInt();
+	boolean x=isStrongNumber(n);
+	if(x)
+	{
+		System.out.println(n+" is Strong number");
+	}
+
+
+private static boolean isStrongNumber(int n) {
+	// TODO Auto-generated method stub
+	return false;
+}
+}
+}

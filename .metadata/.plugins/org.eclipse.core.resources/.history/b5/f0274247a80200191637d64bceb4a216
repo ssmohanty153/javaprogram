@@ -1,0 +1,15 @@
+package com.ssm.Array;
+import java.util.Scanner;
+public class AvetrageOfNumber {
+	public static void main(String[] args) 
+	{
+		double weight[]=new double[8];
+		Scanner sc=new Scanner(System.in);
+		
+		
+		
+		
+		
+		}
+
+}

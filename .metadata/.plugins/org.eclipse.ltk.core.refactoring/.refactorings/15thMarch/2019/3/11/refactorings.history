@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;MedicalShop.java&apos; to &apos;Variable2&apos;" description="Move &apos;MedicalShop.java&apos; to &apos;Variable2&apos;" destination="src/org/ssm/Variable2" element1="src/org/ssm/Variable1/MedicalShop.java" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1552710579018" updateReferences="true"/>
+</session>

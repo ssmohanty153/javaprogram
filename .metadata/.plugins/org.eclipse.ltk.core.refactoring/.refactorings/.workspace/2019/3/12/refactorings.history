@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;15thMarch/src/org/ssm/This3/TeaBeveage.java&apos;" deleteContents="false" description="Delete resource &apos;15thMarch/src/org/ssm/This3/TeaBeveage.java&apos;" element1="/15thMarch/src/org/ssm/This3/TeaBeveage.java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1552903843662"/>&#x0A;<refactoring comment="Delete resource &apos;15thMarch/src/org/ssm/InstanceOf&apos;" deleteContents="false" description="Delete resource &apos;15thMarch/src/org/ssm/InstanceOf&apos;" element1="/15thMarch/src/org/ssm/InstanceOf" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1552981691846"/>
+</session>

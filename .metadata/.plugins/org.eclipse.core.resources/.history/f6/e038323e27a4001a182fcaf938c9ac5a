@@ -1,0 +1,15 @@
+package org.ssm.list;
+
+public class Employee 
+{
+	private String firstName;
+	private String lastName;
+	private int id;
+	public Employee()
+	{
+		// TODO Auto-generated constructor stub
+	}
+
+
+
+}

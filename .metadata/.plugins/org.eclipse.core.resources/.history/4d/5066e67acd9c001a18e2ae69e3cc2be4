@@ -1,0 +1,34 @@
+package org.ssm.fileReader;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.Scanner;
+
+public class FileReaderDest 
+{
+	public static void main(String[] args) 
+	{
+		String text = "";
+		int lineNumber;
+		try {
+			FileReader readfile = new FileReader("C:\\Users\\ssmoh\\OneDrive\\Desktop\\rec.txt");
+			BufferedReader readbuffer = new BufferedReader(readfile);
+			for (lineNumber = 1; lineNumber < 10; lineNumber++) {
+				if (lineNumber == 7) {
+					text = readbuffer.readLine();
+				} else
+					readbuffer.readLine();
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		System.out.println(" The specific Line is: " + text);
+
+
+	}
+}
+
+
